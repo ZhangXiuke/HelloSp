@@ -13,6 +13,15 @@ public class UserVo {
 	private Integer rowindex;
 	//;
 	private Integer status;
+	
+	private String ddd;
+	
+	public String getDdd() {
+		return ddd;
+	}
+	public void setDdd(String ddd) {
+		this.ddd = ddd;
+	}
 	public Integer getCode() {
 		return code;
 	}
