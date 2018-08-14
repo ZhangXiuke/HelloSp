@@ -18,6 +18,14 @@ public class UserVo {
 	
 	private String ccc;
 	
+	private String eee;
+	
+	public String getEee() {
+		return eee;
+	}
+	public void setEee(String eee) {
+		this.eee = eee;
+	}
 	public String getCcc() {
 		return ccc;
 	}
