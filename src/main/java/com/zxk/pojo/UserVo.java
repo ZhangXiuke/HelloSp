@@ -16,6 +16,14 @@ public class UserVo {
 	
 	private String ddd;
 	
+	private String ccc;
+	
+	public String getCcc() {
+		return ccc;
+	}
+	public void setCcc(String ccc) {
+		this.ccc = ccc;
+	}
 	public String getDdd() {
 		return ddd;
 	}
