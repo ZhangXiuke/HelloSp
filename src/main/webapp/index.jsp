@@ -26,6 +26,8 @@
 	    	window.location.href="<%=basePath%>Student/getStudents";
 		});
 </script>
-<p></p>
+<p>这是空间1的内容</p>
+<p>这是空间2的内容</p>
+<p>我希望是合并他们</p>
 </body>
 </html>
