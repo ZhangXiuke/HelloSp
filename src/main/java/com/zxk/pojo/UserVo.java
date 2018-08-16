@@ -18,30 +18,6 @@ public class UserVo {
 	
 	private String ccc;
 	
-	private String eee;
-	//测试分支
-	private String sss;
-	//测试git解决冲突
-	private String ppp;
-	
-	public String getPpp() {
-		return ppp;
-	}
-	public void setPpp(String ppp) {
-		this.ppp = ppp;
-	}
-	public String getSss() {
-		return sss;
-	}
-	public void setSss(String sss) {
-		this.sss = sss;
-	}
-	public String getEee() {
-		return eee;
-	}
-	public void setEee(String eee) {
-		this.eee = eee;
-	}
 	public String getCcc() {
 		return ccc;
 	}
