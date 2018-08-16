@@ -18,6 +18,8 @@ public class UserVo {
 	
 	private String ccc;
 	
+	private String sss;
+	
 	public String getCcc() {
 		return ccc;
 	}
