@@ -26,5 +26,6 @@
 	    	window.location.href="<%=basePath%>Student/getStudents";
 		});
 </script>
+<p></p>
 </body>
 </html>
