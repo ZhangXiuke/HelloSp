@@ -21,8 +21,15 @@ public class UserVo {
 	private String eee;
 	//测试分支
 	private String sss;
+	//测试git解决冲突
+	private String ppp;
 	
-	
+	public String getPpp() {
+		return ppp;
+	}
+	public void setPpp(String ppp) {
+		this.ppp = ppp;
+	}
 	public String getSss() {
 		return sss;
 	}
