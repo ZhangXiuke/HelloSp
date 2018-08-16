@@ -19,7 +19,16 @@ public class UserVo {
 	private String ccc;
 	
 	private String eee;
+	//测试分支
+	private String sss;
 	
+	
+	public String getSss() {
+		return sss;
+	}
+	public void setSss(String sss) {
+		this.sss = sss;
+	}
 	public String getEee() {
 		return eee;
 	}
